@@ -1,8 +1,8 @@
 array1 = dict()
 array2 = dict()
 
-x = int(input())
-y = int(input())
+x = int(input('Size of arr1'))
+y = int(input('Size of arr2'))
 
 for _ in range(x):
     temp = int(input())
